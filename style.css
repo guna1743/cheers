@@ -77,6 +77,16 @@
 	padding-bottom: 30px;
 }
 
+/*Galery*/
+#gallery{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#gallery h1{
+	padding-bottom: 30px;
+}
+
 /* about */
 
 #about{
@@ -160,3 +170,6 @@ padding-top: 10px;
 }
 
 }
+a img {
+	border-radius: 10%;
+  }
